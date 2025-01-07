@@ -1,4 +1,7 @@
+# Ezri
+# 1/7/25
 # Asks the number of lines cleared in tetris nad prints out tiers acording to score
+
 tier = int(input("Enter the number of lines cleared in Tetris:"))
 if tier < 100:
     print("Novice")
